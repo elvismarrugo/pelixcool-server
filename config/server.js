@@ -7,5 +7,3 @@ module.exports = ({ env }) => ({
     },
   },
 });
-
-console.log(prueba)
